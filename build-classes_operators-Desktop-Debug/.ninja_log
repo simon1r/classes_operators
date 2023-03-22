@@ -1,0 +1,18 @@
+# ninja log v5
+0	419	7012185114118974	CMakeFiles/classes_operators.dir/main.cpp.obj	628d0f260bcb46e6
+423	578	7012185115732357	classes_operators.exe	896ac19cc1589d7a
+6	512	7012185458174172	CMakeFiles/classes_operators.dir/main.cpp.obj	628d0f260bcb46e6
+3	548	7012188475158562	CMakeFiles/classes_operators.dir/main.cpp.obj	628d0f260bcb46e6
+548	699	7012188476663805	classes_operators.exe	896ac19cc1589d7a
+4	560	7012192579669154	CMakeFiles/classes_operators.dir/main.cpp.obj	628d0f260bcb46e6
+561	710	7012192581162464	classes_operators.exe	896ac19cc1589d7a
+3	553	7012192966904770	CMakeFiles/classes_operators.dir/main.cpp.obj	628d0f260bcb46e6
+554	711	7012192968500684	classes_operators.exe	896ac19cc1589d7a
+3	530	7012196211067756	CMakeFiles/classes_operators.dir/main.cpp.obj	628d0f260bcb46e6
+531	688	7012196212673598	classes_operators.exe	896ac19cc1589d7a
+3	538	7012198723828617	CMakeFiles/classes_operators.dir/main.cpp.obj	628d0f260bcb46e6
+538	686	7012198725304854	classes_operators.exe	896ac19cc1589d7a
+4	504	7012199504135532	CMakeFiles/classes_operators.dir/main.cpp.obj	628d0f260bcb46e6
+505	649	7012199505572936	classes_operators.exe	896ac19cc1589d7a
+3	478	7012200021082504	CMakeFiles/classes_operators.dir/main.cpp.obj	628d0f260bcb46e6
+479	652	7012200022798284	classes_operators.exe	896ac19cc1589d7a
